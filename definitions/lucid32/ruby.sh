@@ -1,0 +1,1 @@
+../.ubuntu/ruby-lucid.sh
