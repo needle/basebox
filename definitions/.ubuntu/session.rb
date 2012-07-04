@@ -27,7 +27,9 @@ UBUNTU_SESSION =
                           "<Enter>"
                          ],
                          :postinstall_files => [ "update.sh",
+                                                 "nfs.sh",
                                                  "ruby.sh",
+                                                 "chef.sh",
                                                  "vagrant.sh",
                                                  "networking.sh",
                                                  "sudoers.sh",
